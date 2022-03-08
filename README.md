@@ -1,6 +1,10 @@
 
 <h1>Graph Traversal exercise with setup via terminal</h1>
 
+Prereqisites:
+* JDK
+
+Instructions:
 1. Clone or download and unzip repository content
 
 2. Download and copy testing framework jars to downloaded repository directory:
