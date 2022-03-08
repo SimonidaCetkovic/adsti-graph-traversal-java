@@ -13,5 +13,5 @@
 
 4. Compile and run from command line:
 * Unix:
-  * Compile: ``` g++ *.cpp -o graphTest ```
-  * Run: ``` ./graphTest ```
+  * Compile: ``` javac -classpath junit-4.13.2.jar *.java ```
+  * Run: ``` java -cp junit-4.13.2.jar:hamcrest-core-1.3.jar:. org.junit.runner.JUnitCore GraphTest ```
